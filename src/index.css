@@ -1,0 +1,30 @@
+* {
+  text-decoration: none !important;
+  font-family: 'Oswald', sans-serif;
+}
+
+body {
+  background-image: linear-gradient(to bottom, #2c2990, #a9cde8, #70abdc, #c2d5e6, #2e1b71) !important;
+}
+
+.footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+}
+
+a {
+  font-size: 1.5rem;
+}
+
+:root {
+  --card-color: rgb(25, 25, 25);
+}
+
+body {
+  background-image: linear-gradient(to bottom, #2c2990, #a9cde8, #70abdc, #c2d5e6, #2e1b71) !important;
+  display: grid;
+  height: 100vh;
+  margin: 0px;
+  padding: 0px;  
+}
